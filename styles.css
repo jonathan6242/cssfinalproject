@@ -26,8 +26,6 @@ html, body {
 body {
   position: relative;
   padding: 32px;
-  width: 100vw;
-  overflow-x: hidden;
 }
 
 .row {
